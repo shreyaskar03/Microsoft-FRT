@@ -1,5 +1,5 @@
 # Microsoft-FRT
-This repository contains final project for Future Ready Talent Programme.
+This repository contains final project for Future Ready Talent Programme
 
 MENTALDOST: AI-Based Mental Health Diagnosis ChatBot for College Students.
 
@@ -35,7 +35,9 @@ Crisis Intervention: Provides immediate support and resources for students in ur
 User-Friendly Interface: Designed for intuitive use across various platforms, ensuring a seamless user experience that encourages regular engagement and support utilization.
 
 Purpose and Impact:
+
 MENTALDOST aims to fill the gap in mental health support by offering an easily accessible, confidential, and empathetic environment for college students to address their mental health needs proactively. By integrating cutting-edge AI technologies, MENTALDOST ensures students receive timely and effective support, thereby fostering a supportive campus environment conducive to academic success and overall well-being.
 
 Conclusion:
+
 MENTALDOST represents a crucial step forward in enhancing mental health support services for college students, leveraging AI to provide personalized, accessible, and stigma-free assistance. By empowering students to manage their mental health effectively, MENTALDOST contributes to creating healthier and more resilient campus communities.
