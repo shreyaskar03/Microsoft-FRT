@@ -3,6 +3,8 @@ This repository contains final project for Future Ready Talent Programme
 
 MENTALDOST: AI-Based Mental Health Diagnosis ChatBot for College Students.
 
+Video Link- https://www.youtube.com/watch?v=ACjCeXS3FPE
+
 Overview:
 
 MENTALDOST is an innovative solution aimed at addressing the significant gap in mental health support among college students. By leveraging AI technology, specifically a sophisticated chatbot, MENTALDOST provides immediate, confidential, and stigma-free mental health assessments and support. The chatbot facilitates early intervention and guides students toward necessary healthcare resources, thereby promoting better mental well-being on campus.
