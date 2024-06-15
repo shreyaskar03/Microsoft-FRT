@@ -8,6 +8,9 @@ MENTALDOST: AI-Based Mental Health Diagnosis ChatBot for College Students.
 
 ![Screenshot (267)](https://github.com/shreyaskar03/Microsoft-FRT/assets/139859403/69011160-fb2c-4415-878e-ead2a0b9eb44)
 
+![Screenshot (272)](https://github.com/shreyaskar03/Microsoft-FRT/assets/139859403/c434e4d4-4c67-4946-94ef-1e837e7f2bfa)
+
+
 
 
 Video Link- https://www.youtube.com/watch?v=ACjCeXS3FPE
