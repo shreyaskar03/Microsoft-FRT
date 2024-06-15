@@ -4,6 +4,8 @@ This repository contains final project for Future Ready Talent Programme
 MENTALDOST: AI-Based Mental Health Diagnosis ChatBot for College Students.
 
 
+![Screenshot (263)](https://github.com/shreyaskar03/Microsoft-FRT/assets/139859403/b5e6261d-567c-4003-81dd-9b6fe6b56f97)
+
 
 Video Link- https://www.youtube.com/watch?v=ACjCeXS3FPE
 
