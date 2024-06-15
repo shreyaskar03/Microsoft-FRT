@@ -40,6 +40,9 @@ Key Functionalities:
 
 Azure Health Bot: Uses the Azure Health Bot as an AI ChatBot service to evaluate the necessary assessments based on the responses by the user.
 
+![Screenshot (275)](https://github.com/shreyaskar03/Microsoft-FRT/assets/139859403/4f06dd1a-a947-4b38-85c4-1e3a6df8b297)
+
+
 ![Screenshot (270)](https://github.com/shreyaskar03/Microsoft-FRT/assets/139859403/31d6c050-529d-4b0c-b3df-ece49da7475e)
 
 
