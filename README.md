@@ -24,6 +24,7 @@ Facilitates Early Detection: Conducts immediate preliminary assessments using st
 Guides to Resources: Offers personalized coping strategies, self-help resources, and information on professional mental health services available locally.
 
 Key Functionalities:
+
 Azure Health Bot: Uses the Azure Health Bot as an AI ChatBot service to evaluate the necessary assessments based on the responses by the user.
 
 Azure Web App Service: Uses the Azure WebApp service to host the website.
