@@ -24,7 +24,11 @@ Facilitates Early Detection: Conducts immediate preliminary assessments using st
 Guides to Resources: Offers personalized coping strategies, self-help resources, and information on professional mental health services available locally.
 
 Key Functionalities:
-Natural Language Processing (NLP) and Machine Learning: Utilizes advanced NLP and machine learning algorithms (via Azure Health Bot) to understand and respond accurately to student inputs, continuously improving empathy and accuracy.
+Azure Health Bot: Uses the Azure Health Bot as an AI ChatBot service to evaluate the necessary assessments based on the responses by the user.
+
+Azure Web App Service: Uses the Azure WebApp service to host the website.
+
+Azure Active Directory(Microsoft Entra Id): Uses the Azure Active Directory for login and logout.
 
 Preliminary Mental Health Assessments: Conducts initial assessments to provide insights into potential mental health issues based on students' responses.
 
@@ -38,8 +42,8 @@ User-Friendly Interface: Designed for intuitive use across various platforms, en
 
 Purpose and Impact:
 
-MENTALDOST aims to fill the gap in mental health support by offering an easily accessible, confidential, and empathetic environment for college students to address their mental health needs proactively. By integrating cutting-edge AI technologies, MENTALDOST ensures students receive timely and effective support, thereby fostering a supportive campus environment conducive to academic success and overall well-being.
+MENTALDOST aims to fill the gap in mental health support by offering an easily accessible, confidential, and empathetic environment for college students to address their mental health needs proactively. By integrating Azure Health Bot technology, MENTALDOST ensures students receive timely and effective support, thereby fostering a supportive campus environment conducive to academic success and overall well-being.
 
 Conclusion:
 
-MENTALDOST represents a crucial step forward in enhancing mental health support services for college students, leveraging AI to provide personalized, accessible, and stigma-free assistance. By empowering students to manage their mental health effectively, MENTALDOST contributes to creating healthier and more resilient campus communities.
+MENTALDOST represents a crucial step forward in enhancing mental health support services for college students, leveraging  Azure Health Bot AI to provide personalized, accessible, and stigma-free assistance. By empowering students to manage their mental health effectively, MENTALDOST contributes to creating healthier and more resilient campus communities.
