@@ -40,6 +40,9 @@ Key Functionalities:
 
 Azure Health Bot: Uses the Azure Health Bot as an AI ChatBot service to evaluate the necessary assessments based on the responses by the user.
 
+![Screenshot (270)](https://github.com/shreyaskar03/Microsoft-FRT/assets/139859403/31d6c050-529d-4b0c-b3df-ece49da7475e)
+
+
 Azure Web App Service: Uses the Azure WebApp service to host the website.
 
 Azure Active Directory(Microsoft Entra Id): Uses the Azure Active Directory for login and logout.
